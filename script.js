@@ -12,7 +12,7 @@ setTimeout(function() {
 $.backstretch([
         "img/background1.jpg"
       , "img/background2.jpg"
-      , "img/background3.jpg"
+      , "img/background3.jpeg"
      ], {duration: 2500, fade: 750}); 
 
 
